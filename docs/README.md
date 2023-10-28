@@ -2,4 +2,4 @@
 
 ### 2022
 ---
-#### Angst ![Book logo](/assets/images/banner_knopf.jpg)
+#### Angst ![Knöpfe](/assets/images/banner_knopf.jpg)
