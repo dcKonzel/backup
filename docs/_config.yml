@@ -1,6 +1,8 @@
 title: David Konzelmann
 tagline: Your sidekick in using GitHub Pages and blogs
 description: Klangkunst Fotografie
+github:
+  is_project_page: false
 tags:
   - Soundart
   - Photography
